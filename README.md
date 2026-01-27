@@ -13,11 +13,10 @@ Je construis des applications web sécurisées et j'aide les entreprises à prot
 ### 🚀 Actuellement
 - 🔨 Construction de mon portfolio de projets sécurité
 - 📚 Formation intensive en développement web sécurisé
-- 💼 Disponible en freelance dès Avril 2025
+- 💼 Disponible immédiatement en freelance
 
 ### 📫 Contact
 - 📧 Email : agouni.johan@proton.me
-- 💼 LinkedIn : Bientôt disponible
 
 ---
 
