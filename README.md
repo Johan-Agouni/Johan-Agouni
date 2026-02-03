@@ -1,16 +1,16 @@
 # Johan Agouni
 
-**Developpeur Full-Stack JavaScript | Freelance**
+**Developpeur Full-Stack JavaScript & PHP | Freelance**
 
 Je conçois et développe des applications web complètes, du backend à l'interface utilisateur, avec un focus sur la sécurité applicative et la qualité du code.
 
 ## Stack Technique
 
-**Frontend** : React 18, Next.js, TypeScript, Tailwind CSS, Chart.js, Globe.gl
+**Frontend** : HTML5, CSS3, JavaScript, TypeScript, React 18, Next.js, Tailwind CSS, Chart.js, Globe.gl
 
-**Backend** : Node.js, Express, NestJS, REST API
+**Backend** : Node.js, Express, NestJS, PHP, REST API
 
-**Bases de données** : PostgreSQL, MongoDB, Redis
+**Bases de données** : PostgreSQL, MongoDB, MySQL, Redis
 
 **Auth & Paiement** : JWT (access + refresh tokens), bcrypt, Stripe (checkout, webhooks, portail)
 
@@ -36,9 +36,9 @@ Outil de génération de mots de passe sécurisés avec `crypto.getRandomValues(
 
 ## Disponibilité
 
-Disponible pour des missions freelance en développement web full-stack JavaScript.
+Disponible pour des missions freelance en développement web full-stack.
 
-**Applications web** | **SaaS** | **Dashboards** | **API REST** | **Sites e-commerce**
+**Applications web** | **SaaS** | **Dashboards** | **API REST** | **Sites e-commerce** | **Sites PHP**
 
 ## Contact
 
